@@ -1,7 +1,7 @@
----
-permalink: /about/
-title: "About"
----
+%---
+%permalink: /about/
+%title: "About"
+%---
 
 # Generating detailed SBOL representation of genetic logic circuits along with improved designing capability, and SBML export in GeneTech
 
