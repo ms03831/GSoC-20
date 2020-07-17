@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Mudasir Hanif Shaikh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mudasir.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist having more than 3 years of programming experience in Python. I'm currently one of the 6 Google Summer of Code (a very competitive program by Google) developers from my country. Python is the primary language of my GSoC project. I'm an ML/DL enthusiast, and have taken several courses and completed many projects in the domain, both online and at my university. I have tonnes of experience in data analysis and visualization, building ML/DL models and I also did a research internship in Deep Learning last summers.  I have experience working with Keras, TensorFlow, PyTorch, MXNet, scikit-learn, PyQT, numpy, matplotlib, pandas BeautifulSoup etc. In addition to this, I can code in C++, C, Java, MATLAB, JavaScript. "
   location         : "Karachi, Pakistan"
   email            : "shaikhmudi3@gmail.com"
