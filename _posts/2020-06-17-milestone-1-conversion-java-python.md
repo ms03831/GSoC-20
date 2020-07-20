@@ -18,9 +18,9 @@ Welcome to the first blog posts of Mudasir Hanif Shaikh's GSoC journey working w
 	
 	- Trying to resolve pySBOL issues. Tried:
 		- Conda environment 
-			# python 3.6 
-			# python 3.7
-			# python 3.8
+			- python 3.6 
+			- python 3.7
+			- python 3.8
 		
 		- Virutal environment
 		
