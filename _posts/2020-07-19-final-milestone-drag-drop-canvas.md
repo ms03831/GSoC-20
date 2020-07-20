@@ -1,8 +1,7 @@
 ---
-title: Math Support
-date: 2018-07-16
-tags: MathJax
-use_math: true
+title: Final Milestone - Adding Drag-Drop-Connect canvas for circuit equations
+date: 2020-07-19
+tags: Python, GSoC-20, PyQT, GeneTech
 ---
 
 You can enable math support through `use_math: true` front matter which enable the MathJax.js rendering.
