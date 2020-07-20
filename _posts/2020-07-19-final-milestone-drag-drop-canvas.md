@@ -4,7 +4,6 @@ date: 2020-07-19
 tags: Python, GSoC-20, PyQT, GeneTech
 ---
 
-You can enable math support through `use_math: true` front matter which enable the MathJax.js rendering.
 
 After enable math support, use `$$ ... $$` displaying math equation.
 
