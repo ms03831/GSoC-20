@@ -52,7 +52,7 @@ tags: GeneTech, Python, GSoC-20, SynBio
 		- YFP
 		- The links to the repository for each of these
 		- Used pysbol to query the link for each of these and populated the database. 
-    		- ### This is how our database looks now:
+    		- This is how our database looks now: [See here](https://github.com/ms03831/GSoC-20/blob/master/_posts/database.md)
 
 		
 
