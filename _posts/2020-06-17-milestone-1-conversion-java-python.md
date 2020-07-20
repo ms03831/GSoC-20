@@ -2,7 +2,7 @@
 title:  "Milestone 1: Converstion of Java into Python"
 date:   2020-6-17
 categories: update
-tags: GeneTech, Python, GSoC-20
+tags: GSoC
 ---
 
 Welcome to the first blog posts of Mudasir Hanif Shaikh's GSoC journey working with GeneTech. This post presents updates on the first milestone of my project, that is, conversion of Java codebase of GeneTech into Python. I worked on this for over 5 weeks starting from mid-May of Community bonding period to week 3 of evaluation 1, and was able to convert all java code into python and integrate it with existing code. More updates to follow.
