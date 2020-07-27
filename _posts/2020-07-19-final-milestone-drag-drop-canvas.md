@@ -30,7 +30,7 @@ would be directed to a new page to construct a genetic circuit using the standar
 ![AND]({{ "assets/images/AND.png" | absolute_url }})
 ![OR]({{ "assets/images/OR.png" | absolute_url }})
 ![NOT]({{ "assets/images/NOT.png" | absolute_url }})
-![NOR]({{ "assets/images/AND.png" | absolute_url }})
+![NOR]({{ "assets/images/NOR.png" | absolute_url }})
 ![NAND]({{ "assets/images/NAND.png" | absolute_url }})
 
 
