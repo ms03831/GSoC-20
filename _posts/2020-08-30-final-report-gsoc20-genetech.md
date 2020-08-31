@@ -8,7 +8,7 @@ tags: GSoC
 
 # Overview
 ## Project: [GeneTech](https://github.com/hasanbaig/GeneTech/)
-## Mentors: Hasan Baig and Ritwik
+## Mentors: Dr. Hasan Baig and Ritwik
 ## Organization: NRNB
 GeneTech allow users to develop genetic logic circuits only by specifying a Boolean function. The tool first performs Boolean optimisation, followed by synthesis and technology mapping. Currently, a user can define the desired behavior in the standard Boolean notation. We would like to add the support for designing a circuit via drag and drop method on a design canvas. This functionality would allow users, specially electrical/electronic engineers, to design a genetic circuit by constructing the circuit schematic on a design canvas using drag-drop-wire approach. GeneTech will then transform the circuit schematic into the corresponding genetic circuit and represent it in the standard SBOL notation. The results produced by the current version of GeneTech do not include the DNA basepair encoding of circuit components. We would like to update the tool to be able to embed the DNA sequence of generated circuits in the SBOL file. 
 
@@ -49,4 +49,4 @@ I learned a great deal from this project. Special shoutout to NRNB for the suppo
 Thank you NRNB, Google and Hasan Baig for providing me with the opportunity to be a part of this wonderful program! 
   
 # Some regrets
-Even though I tried my best and at times exceeded my own limits in terms of working on the project but I think I still didn't do as good a job as I had hoped. This was mainly due to the issues I faced throughout. This was a difficult time and I hope the project came at a different time, it would have been a lot better for everyone involved. 
+Even though I tried my best and at times exceeded my own limits in terms of working on the project but I think I still didn't do as good a job as I had hoped. This was mainly due to the issues I faced throughout. This was a difficult time and I wish the project had come at a different time, it would have been a lot better for everyone involved. 
