@@ -1,8 +1,8 @@
 ---
-title: Final Report | GeneTech | Google Summer of Code 2020
+title: Final Report, GeneTech, Google Summer of Code 2020
 date: 2020-08-30
 tags: GSoC
-mentor: Hasan Baig | Ritwik
+mentor: Hasan Baig and Ritwik
 organization: NRNB
 ---
 <hr>
