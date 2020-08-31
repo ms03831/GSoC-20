@@ -16,22 +16,22 @@ Moreover, most of the existing source code at the backend of GeneTech is in Java
 
 # Milestones 
 ## Milestone # 1: Conversion of Java codebase into Python
-  ### About the task: 
+###   About the task: 
   Before I started working on GeneTech, most of the source code at the backend was in Java. How this worked was that the Java code was precompiled and then the compiled executable was called from within python. This was an additional overhead and also produced some additional dependancies. For example the Java executable (an .exe) made it impossible for it to be run on unix based machines. There could have been workarounds but even those would have created addtional overhead. Therefore I suggested that we convert the Java code into Python. The milestone was successfully completed.
-  ### Related code and PR: [code](https://github.com/hasanbaig/GeneTech/tree/master/src) / [PR](https://github.com/hasanbaig/GeneTech/pull/4)
+###   Related code and PR: [code](https://github.com/hasanbaig/GeneTech/tree/master/src) / [PR](https://github.com/hasanbaig/GeneTech/pull/4)
   <hr> 
 ## Milestone # 2: Incorporating dna sequence in SBOL file
-### About the task: 
+###   About the task: 
    Find more details about this at the following [post](https://ms03831.github.io/GSoC-20/update/milestone-2-dna-sequence-sbol/)
    ### note for future contributors:
    Try to look into the possibility of integrating **realtime online search** support for genetic parts that are not in the genetech library. 
-   ### Related PR: [PR](https://github.com/hasanbaig/GeneTech/pull/5)
+###   Related PR: [PR](https://github.com/hasanbaig/GeneTech/pull/5)
    <hr> 
 ## Milestone # 3: Adding Drag-Drop-Connect canvas for circuit equations
-  ### About the task: 
+###   About the task: 
   Find more details about this at the following [post](https://ms03831.github.io/GSoC-20/final-milestone-drag-drop-canvas/)
 
-  ### Related code: [code](https://github.com/hasanbaig/GeneTech/tree/circuit-builder)
+###   Related code: [code](https://github.com/hasanbaig/GeneTech/tree/circuit-builder)
 
 # Future work
 
